@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyzayah Jordan | Technical Operations & IT Infrastructure</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            color: #222;
+        }
+
+        header {
+            background: #1a1a1a;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+
+        header p {
+            margin-top: 10px;
+            font-size: 18px;
+            opacity: 0.8;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            border-left: 5px solid #0078ff;
+            padding-left: 10px;
+            margin-top: 40px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .skill-box {
+            background: #eef4ff;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #0078ff;
+        }
+
+        .job {
+            margin-bottom: 20px;
+        }
+
+        .job h3 {
+            margin: 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+            color: #555;
+        }
+
+        a {
+            color: #0078ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Kyzayah Jordan</h1>
+    <p>Technical Operations • Data Center Infrastructure • IT Systems • Automation</p>
+</header>
+
+<div class="container">
+
+    <h2>Contact</h2>
+    <div class="section">
+        <p><strong>Email:</strong> kyjunior2023@gmail.com</p>
+        <p><strong>Phone:</strong> 402‑212‑9553</p>
+        <p><strong>Location:</strong> Omaha, NE</p>
+    </div>
+
+    <h2>Professional Summary</h2>
+    <div class="section">
+        <p>
+            Technically skilled operations and maintenance professional transitioning into data center and IT infrastructure roles. 
+            Strong foundation in computer science, SQL databases, Python automation, networking, and hardware/software troubleshooting. 
+            Experienced in diagnostics, HMI systems, digital workflows, and maintaining complex mechanical and electrical equipment in 
+            high‑risk industrial environments. Proven ability to learn new technologies quickly, follow detailed procedures, and keep 
+            mission‑critical systems running safely and efficiently.
+        </p>
+    </div>
+
+    <h2>Skills</h2>
+    <div class="skills-grid">
+
+        <div class="skill-box">
+            <strong>IT & Computer Skills</strong><br>
+            Linux/Windows Admin, Python, SQL, Git, Troubleshooting, Bash, PowerShell, Debugging, Data Processing
+        </div>
+
+        <div class="skill-box">
+            <strong>Networking & Infrastructure</strong><br>
+            IP/Subnetting, DHCP/DNS, VLANs, Ethernet, Firewalls, VMware, RDP, Cabling
+        </div>
+
+        <div class="skill-box">
+            <strong>Data Center Operations</strong><br>
+            Rack/Stack, ESD Safety, PDUs, UPS, Environmental Monitoring, ServiceNow, Asset Tracking
+        </div>
+
+        <div class="skill-box">
+            <strong>Automation & Monitoring</strong><br>
+            SCADA, PLC Ladder Logic, Sensor Calibration, Root Cause Analysis
+        </div>
+
+        <div class="skill-box">
+            <strong>Industrial & Mechanical</strong><br>
+            Hydraulics, Motors, Pumps, Diagnostics, Preventive Maintenance, Heavy Equipment Operation
+        </div>
+
+        <div class="skill-box">
+            <strong>Safety & Compliance</strong><br>
+            PPE, Lockout/Tagout/Tryout, SOP Compliance, High‑Risk Environments
+        </div>
+
+    </div>
+
+    <h2>Projects</h2>
+    <div class="section">
+        <p><strong>MCC Student Enrollment Database (MySQL)</strong><br>
+            Designed and built a multi‑table relational database with constraints, ER diagrams, and analytical SQL queries.
+        </p>
+
+        <p><strong>Python Automation Scripts</strong><br>
+            Automated CSV data cleaning, validation, and formatting using Python loops, functions, and file I/O.
+        </p>
+    </div>
+
+    <h2>Work Experience</h2>
+
+    <div class="job">
+        <h3>Martin Marietta — Dredge Systems Operator</h3>
+        <p><em>2024 – Present | Waterloo, NE</em></p>
+        <p>Operate multiscreen dredge systems, perform mechanical/electrical maintenance, troubleshoot equipment, and ensure safety compliance.</p>
+    </div>
+
+    <div class="job">
+        <h3>3M — Extruder Operator / Maintenance Tech</h3>
+        <p><em>2023 – 2024 | Valley, NE</em></p>
+        <p>Calibrated extrusion machinery, monitored HMI systems, performed diagnostics, and completed industrial maintenance training.</p>
+    </div>
+
+    <div class="job">
+        <h3>US Foods — Forklift Operator</h3>
+        <p><em>2022 | Omaha, NE</em></p>
+        <p>Order selection, RF scanning, pallet handling, and equipment checks.</p>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 Kyzayah Jordan — Technical Operations & IT Infrastructure
+</footer>
+
+</body>
+</html>
